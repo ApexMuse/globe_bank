@@ -1,7 +1,13 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Todd's Gamer
- * Date: 3/25/2018
- * Time: 4:56 PM
- */
+<!doctype html>
+
+<html lang="en">
+    <head>
+        <title>Globe Bank</title>
+        <meta charset="UTF-8">
+    </head>
+
+    <body>
+        <h1>Globe Bank Coming Soon</h1>
+    </body>
+
+</html>
