@@ -1,7 +1,12 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Todd's Gamer
- * Date: 3/25/2018
- * Time: 4:55 PM
- */
+
+    function url_for($script_path) {
+        // Add the leading "/" if not present
+        if ($script_path[0] != '/') {
+            $script_path = "/" . $script_path;
+        }
+
+        return WWW_ROOT . $script_path;
+    }
+
+?>
