@@ -1,7 +1,11 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Todd's Gamer
- * Date: 3/25/2018
- * Time: 5:02 PM
- */
+<?php require_once('../../../private/initialize.php'); ?>
+
+<?php $page_title = "Subjects"; ?>
+<?php include( SHARED_PATH . '/staff_header.php' ) ?>
+
+
+    <div id="content">
+
+    </div>
+
+<?php include( SHARED_PATH . '/staff_footer.php' ) ?>
